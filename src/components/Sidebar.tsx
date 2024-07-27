@@ -389,7 +389,7 @@ export const ProfileSidebar = () => {
               style={{ textDecoration: "none", color: "inherit" }}
               href="https://github.com/vishakshi/react-todo-application-"
             >
-              maciekt07
+              Vishuu
             </a>
           </CreditsContainer>
           <CreditsContainer>
