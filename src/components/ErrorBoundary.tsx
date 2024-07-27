@@ -82,8 +82,8 @@ class ErrorBoundary extends React.Component<ErrorBoundaryProps, ErrorBoundarySta
           </ErrorIconContainer>
           <h2>
             To fix it, try clearing your local files (cookies and cache) and then refresh the page.
-            If the problem persists, please report the issue via{" "}
-            <StyledLink translate="no" href="https://github.com/maciekt07/TodoApp/issues">
+            If the problem persists, please report the issue via{"https://github.com/vishakshi/todoReactAPPlication "}
+            <StyledLink translate="no" href=
               Github Issues
             </StyledLink>
             .
